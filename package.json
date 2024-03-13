@@ -1,5 +1,5 @@
 {
-  "name": "cacheit",
+  "name": "@oxytoan/cacheit",
   "version": "1.0.0",
   "description": "Make cache creation easier with cacheit.js classes and functions !",
   "main": "./dist/index.js",
