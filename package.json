@@ -1,0 +1,37 @@
+{
+  "name": "cacheit",
+  "version": "1.0.0",
+  "description": "Make cache creation easier with cacheit.js classes and functions !",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "exports": {
+    "import": "./dist/index.mjs",
+    "require": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Its0xyToan/cacheit.js.git"
+  },
+  "keywords": [
+    "cache",
+    "cacheit",
+    "util"
+  ],
+  "author": "Its0xyToan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Its0xyToan/cacheit.js/issues"
+  },
+  "homepage": "https://github.com/Its0xyToan/cacheit.js#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
